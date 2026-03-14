@@ -1,5 +1,5 @@
 # Khastana Hadi Tegallalang Ubud
-### A Countryside Resort for Slow Living — Official Website
+### A Countryside Resort for Slow Living
 
 ![Khastana Hadi Tegallalang Ubud](images/website.png)
 
